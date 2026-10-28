@@ -1,5 +1,6 @@
 # ShadyVanilla
 [![GitHub](https://img.shields.io/badge/Modrinth-black?style=for-the-badge&logo=modrinth)](https://modrinth.com/project/n6mkhpX8)
+[![Discord](https://img.shields.io/badge/ReShaded-blueviolet?style=for-the-badge&logo=discord&label=Discord&labelColor=black)](https://discord.gg/drgJW28PJA)
 
 Enjoy Vanilla Shaders with no FPS loss!
 
